@@ -20,7 +20,7 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 ### Links
 
-- Solution URL: (https://www.frontendmentor.io/solutions/)
+- Solution URL: ([https://www.frontendmentor.io/solutions/social-links-profile-tailwindcss-CqTf63lFXM])
 
 ## My process
 
